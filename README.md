@@ -59,7 +59,7 @@ Please, install Node JS and all dependencies (links specified in Tech section) b
 ## Links
 
 - [Github repository](https://github.com/aletsmc07/TextEditor)
-- No deployed app link, run it in terminal.
+- [JATE](https://texteditorjate.herokuapp.com/)
 
 [Content](#Content)
 
