@@ -66,8 +66,7 @@ Please, install Node JS and all dependencies (links specified in Tech section) b
 ## Screenshots
 
 Open the text editor and enjoy it!:
-
-
+![image](https://user-images.githubusercontent.com/107447818/204252436-b84bbafa-4840-4726-ad28-8891d0a73629.png)
 
 [Content](#Content)
 
