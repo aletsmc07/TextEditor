@@ -46,7 +46,7 @@ Clone the repository on your PC, open it on Visual Studio Code or other source c
 
 - Start the server:
 ```
-    node server.js
+    npm run start:dev
 ```
 
 -Finally click in the next link, this will open your browser and the page to use the text editor:
@@ -64,6 +64,9 @@ Please, install Node JS and all dependencies (links specified in Tech section) b
 [Content](#Content)
 
 ## Screenshots
+
+Open the text editor and enjoy it!:
+
 
 
 [Content](#Content)
